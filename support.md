@@ -1,39 +1,45 @@
-# Iterem Support
+ # Niblio Support                                                                       
+                                         
+  ## Getting Started                                                                     
+                                                                                         
+  **Niblio** is a flashcard app that helps you **learn and retain knowledge** using      
+  **spaced repetition**. Create decks, add cards, and study using **six modes** — Smart
+  Mix, flashcards, type answer, multiple choice, true/false, and match.
 
-## Getting Started
+  ## Frequently Asked Questions
 
-Iterem is a smart flashcard app that helps you learn and retain knowledge using spaced repetition. Create decks, add cards, and study using multiple modes including adaptive review, flashcards, type answer, multiple choice, true/false, match game, and character writing.
+  ### How does spaced repetition work?
+  **Niblio** uses the **FSRS algorithm** to schedule reviews at optimal intervals. Cards
+  you find easy are shown **less often**, while difficult cards appear **more
+  frequently** until you master them.
 
-## Frequently Asked Questions
+  ### How do I import cards?
+  Open a deck, tap the menu **(...)**, and choose from:
+  - **Add Card** — Create cards one at a time
+  - **Bulk Import** — Paste a list of front/back pairs
+  - **Browse Anki Decks** — Import from AnkiWeb
+  - **Import .niblio file** — Import a shared deck file
 
-### How does spaced repetition work?
-Iterem uses the FSRS algorithm to schedule reviews at optimal intervals. Cards you find easy are shown less often, while difficult cards appear more frequently until you master them.
+  ### How do I share a deck?
+  Open the deck, tap the menu **(...)**, and select **Share Deck**. This creates a
+  **.niblio** file you can send to anyone.
 
-### How do I import cards?
-Open a deck, tap the menu (•••), and choose from:
-- **Add Card** — Create cards one at a time
-- **Bulk Import** — Paste a list of front/back pairs
-- **Browse Anki Decks** — Import from AnkiWeb
-- **Import .iterem file** — Import a shared deck file
+  ### Does Niblio sync across devices?
+  **Yes.** If you're signed into **iCloud**, your decks and progress sync automatically
+  across all your devices.
 
-### How do I share a deck?
-Open the deck, tap the menu (•••), and select **Share Deck**. This creates an .iterem file you can send to anyone.
+  ### Can I reset my progress on a deck?
+  **Yes.** Open the deck, tap the menu **(...)**, and select **Reset Progress**.
 
-### Does Iterem sync across devices?
-Yes. If you're signed into iCloud, your decks and progress sync automatically across all your devices.
+  ### What study modes are available?
+  - **Smart Mix** — Automatically adjusts mode and difficulty as you go
+  - **Flashcards** — Classic flip cards with swipe grading
+  - **Type the Answer** — Type your answer and check it
+  - **Multiple Choice** — Pick from four options
+  - **True or False** — Verify if a pairing is correct
+  - **Match** — Pair terms and definitions against a timer
 
-### Can I reset my progress on a deck?
-Yes. Open the deck, tap the menu (•••), and select **Reset Progress**.
-
-### What study modes are available?
-- **Mastery (Adaptive)** — Spaced repetition with swipe grading
-- **Flashcards** — Classic flip cards
-- **Type Answer** — Type your answer and check
-- **Multiple Choice** — Pick from four options
-- **True or False** — Verify if a pairing is correct
-- **Match Game** — Match front/back pairs against a timer
-- **Character Writing** — Practice writing Chinese characters
 
 ## Contact
 
-If you need help or have feedback, contact [zach.richter85@gmail.com](mailto:zach.richter85@gmail.com)
+If you need help or have feedback, contact [niblio123@gmail.com](mailto:niblio123@gmail.com)
